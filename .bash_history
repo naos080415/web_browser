@@ -25,3 +25,95 @@ ls
 vi sample.py 
 ls
 exit
+ls
+cd sample_html/
+ls
+rm sample.py 
+ls
+ls
+cd ..
+ls
+ls
+ls
+ls
+cd ..
+ls
+ls
+ls
+pwd
+cd user/
+ls
+exit
+ls
+exit
+ls
+sl
+cd ..
+ls
+ls
+cd user/
+ls
+ls
+ls
+ls
+ls
+ls
+exit
+ls
+ls
+cd ..
+kls
+ls
+cd user/
+ls
+cd ..
+ls
+ls
+cd ..
+ls
+exit
+lls
+ls
+cd ..
+ls
+cd ..
+ls
+exit
+ls
+ps
+ls
+cd ..
+ls
+exit
+ls
+ls
+ls
+cd ..
+ls
+cd ..
+ls
+cd code/
+ls
+ls
+ls -al
+cd 
+ls
+cd ..
+ls
+cd ..
+ls
+cd code/
+ls
+cd ..
+ls
+ls
+find . | grep web
+find . | grep web_bro
+ls
+cd dev/
+ls
+cd ho
+exit
+ls
+ls
+exit
